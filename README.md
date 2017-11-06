@@ -213,7 +213,7 @@ Follow the steps to complete the building of iOS App,
 
   It will add `bms-push` and `bms-core` plugins to your app
   
-3. Edit the **app.module.ts** file with your `APPGUID`,`ClientSecret` and `App Region`. 
+3. Edit the [**app.module.ts**](https://github.com/ibm-bluemix-push-notifications/Ionic3_Hellopush/blob/master/hello_push/src/app/app.module.ts) file with your `APPGUID`,`ClientSecret` and `App Region`. 
 
 4. Do `ionic cordova prepare` and `ionic cordova build`
 
