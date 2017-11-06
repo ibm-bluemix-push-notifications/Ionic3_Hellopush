@@ -1,0 +1,445 @@
+{
+  "project_info": {
+    "project_number": "6680060770",
+    "firebase_url": "https://myapp1-469b0.firebaseio.com",
+    "project_id": "myapp1-469b0",
+    "storage_bucket": "myapp1-469b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:836348d847ef261f",
+        "android_client_info": {
+          "package_name": "com.ibm.mobilefirstplatform.clientsdk.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:b4d7802252520a14",
+        "android_client_info": {
+          "package_name": "com.ibm.mobilefirstplatform.clientsdk.android.push.api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:97ae6d6c4e703b4e",
+        "android_client_info": {
+          "package_name": "com.ibm.mobilefirst.clientsdk.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:16cb5de00230f92d",
+        "android_client_info": {
+          "package_name": "com.example.ananthakrishnankg.androidhellopush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:f52ffe99dc638fdf",
+        "android_client_info": {
+          "package_name": "io.cordova.hellocordova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:2770a51e03bd88a4",
+        "android_client_info": {
+          "package_name": "om.ibm.mobilefirstplatform.clientsdk.cordovaplugins.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:506f5e0ce79178b9",
+        "android_client_info": {
+          "package_name": "com.ibm.hellopush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:f1324cf2c787b9df",
+        "android_client_info": {
+          "package_name": "com.ibm.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:863eaf4576f519da",
+        "android_client_info": {
+          "package_name": "com.ibm.watson.developer_cloud.android.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:f36173e948059ccb",
+        "android_client_info": {
+          "package_name": "gcm.play.android.samples.com.gcmquickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:6dd4294036aa1c6f",
+        "android_client_info": {
+          "package_name": "com.ionicframework.todo673604"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:70f9755e55af50a7",
+        "android_client_info": {
+          "package_name": "com.ionicframework.exampleapp519653"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:605ca0e758eccbcc",
+        "android_client_info": {
+          "package_name": "com.ibm.mobilefirstplatform.clientsdk.cordovaplugins.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6680060770:android:acfb52e9a83a0f55",
+        "android_client_info": {
+          "package_name": "ibm.com.hellopush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6680060770-97scctuiltavau406jskjjfgu9a4kv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhL0dvgNYitb2IPvzlppZ62_ylHapnsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
