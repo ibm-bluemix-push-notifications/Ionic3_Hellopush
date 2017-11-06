@@ -198,27 +198,24 @@ Follow the steps to complete the building of iOS App,
 
 ## Example App
 
-The [ExampleApp](https://github.com/ibm-bluemix-push-notifications/Cordova_Ionic_HelloPush/ExampleApp) is an ionic app using bluemix push notifcations cordova plugin.
-
-1. Edit the **www/js/push.js** file with your `APPGUID`,`ClientSecret` and `App Region`. Do the `Cordova Prepare` and `Cordova build`.
-
-2. Add `Android` and `iOS` platforms.
+1. Add `Android` and `iOS` platforms.
 
 ```  
- ionic platform add ios
- ionic platform add android
+ ionic cordova platform add ios
+ ionic cordova platform add android
 ```
 
-3. Add the <strong>bms-push</strong> plugin to the project
+2. Add the <strong>bms-push</strong> plugin to the project
 
   ```
-  cordova plugin add bms-push
+  cordova cordova plugin add bms-push
   ```
 
   It will add `bms-push` and `bms-core` plugins to your app
+  
+3. Edit the **app.module.ts** file with your `APPGUID`,`ClientSecret` and `App Region`. 
 
-4. Do `cordova prepare` and `cordova build`
-
+4. Do `ionic cordova prepare` and `ionic cordova build`
 
 5. To run the iOS app got to **platforms -> ios** open in Xcode , build and Run the app.
 
